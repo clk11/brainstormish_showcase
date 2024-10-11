@@ -2,7 +2,7 @@
 
 ![Status: Active](https://img.shields.io/badge/Status-Active-green)
 
-[Visit Brainstormish](https://brainstormish.site)
+[Visit Brainstormish](https://brainstormish.com)
 
 ## Overview
 **Brainstormish** is a social application that allows users to easily create, find, and join chat rooms through posts. Each post includes a title, description, and tags for quick searching. The app provides:
