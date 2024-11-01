@@ -1,6 +1,6 @@
 # Brainstormish
 
-![Status: Active](https://img.shields.io/badge/Status-Active-green)
+![Status: Active](https://img.shields.io/badge/Status-Inactive-red)
 
 [Visit Brainstormish](https://brainstormish.com)
 
